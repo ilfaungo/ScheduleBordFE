@@ -1,0 +1,11 @@
+@media all  {
+    .Login {
+      
+      background-color: white;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
