@@ -16,7 +16,7 @@ const http = axios.create({
 //messa
 export function login() {
   return {
-    type: "LOG_IN",
+    type: "LOG_INN",
     payload: ""
   };
 }
