@@ -24,7 +24,7 @@ export function login() {
 
 export function logout() {
   return {
-    type: "LOG_OUTTTTTTTT"
+    type: "LOG_sbfix"
   };
 }
 
